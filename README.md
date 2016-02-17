@@ -1,3 +1,5 @@
+# Yujia_PhD_thesis
+
 **umthesis** is a LaTeX2e class file for preparing documents in the required
 form for submission to the University of Massachusetts Graduate School. It can
 be used for doctoral dissertations or for dissertation proposals. It is based
@@ -69,4 +71,3 @@ New environments:
 
 [pdflatex-makefile](https://github.com/ransford/pdflatex-makefile), a succinct,
 revision-control-aware Makefile for pdflatex documents.
-# Yujia_PhD_thesis
